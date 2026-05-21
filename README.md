@@ -7,7 +7,6 @@ Este repositório contém a resolução dos experimentos práticos propostos na 
 *   `script.ipynb`: Notebook Jupyter com a implementação dos 4 experimentos.
 *   `image.png`: Imagem original utilizada como referência.
 *   `imagem.csv`: Matriz de pixels em formato CSV para conversão em imagem.
-*   `Aula 02 - Formação da Imagem.pdf`: Material teórico de apoio.
 
 ## 🚀 Experimentos Realizados
 
